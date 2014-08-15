@@ -1,0 +1,30 @@
+{
+  "name": "d-mapbox-map",
+  "version": "0.0.0",
+  "description": "derby component for mapbox map with reactive data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onerussell/d-mapbox-map.git"
+  },
+  "keywords": [
+      "example"
+  ],
+  "author": {
+    "name": "Alexeev Ruslan",
+    "url": "http://vk.com/russell_o_o",
+    "email": "wb.russel@outlook.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onerussell/d-mapbox-map/issues"
+  },
+  "homepage": "https://github.com/onerussell/d-mapbox-map",
+  "dependencies": {
+      "mapbox.js": "^1.6",
+      "leaflet": "^0.7"
+  }
+}
